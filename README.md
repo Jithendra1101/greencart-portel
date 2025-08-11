@@ -1,2 +1,2 @@
 # greencart-portel
- test 
+ a fullstack app
